@@ -102,3 +102,4 @@ def sil_kullanici(client, message):
             message.reply_text("Hatalı komut kullanımı. Ornek: /sil <kullanıcı_id>")
     else:
         message.reply_text("Üzgünüm, bu komutu yalnızca yöneticiler kullanabilir.")
+bot_baglanti.run()
