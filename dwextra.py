@@ -4,6 +4,7 @@ from pymongo import MongoClient
 import os
 import time
 import requests
+import subprocess
 
 # [x]: Reddedildi [!]: Hata [*]: Ilerleme [+]: Basarili islem [-]: Basarisiz islem
 
